@@ -78,7 +78,7 @@ AI-Chat-Support-Backend-Frontend/
 ✔️ Backend separated fully from frontend
 
 
-✨ Features
+# Features
 
 🔹 Frontend
 
@@ -110,7 +110,7 @@ Ready for deployment
 
 Easy to integrate with real AI model 
 
-🧠 Future Improvements (Roadmap)
+# Future Improvements (Roadmap)
 
 These are planned or recommended enhancements:
 
