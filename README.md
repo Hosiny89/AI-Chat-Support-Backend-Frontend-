@@ -7,7 +7,7 @@ This project demonstrates backend architecture, frontend UI, structured API desi
 
 ---
 
-🚀 Overview
+# Overview
 
 AI Chat Support is a full-stack web application designed to simulate a basic chat system.
 Users can send messages through the frontend UI, and the backend processes and stores the messages.
